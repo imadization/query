@@ -1,5 +1,9 @@
 # @tanstack/query-core
 
+## 5.108.5
+
+No changes in this release.
+
 ## 5.108.4
 
 ### Patch Changes
